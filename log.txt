@@ -1,1 +1,15 @@
 [2026-05-07 03:25:16] ERROR:  ya se encuentra reservado
+[2026-05-12 00:45:47] ERROR: Sala.calcular_costo() got an unexpected keyword argument 'aplicar_descuento'
+[2026-05-12 00:45:47] ERROR: Sala.calcular_costo() got an unexpected keyword argument 'aplicar_descuento'
+[2026-05-12 00:45:47] ERROR: La cantidad disponible debe ser un entero no negativo.
+[2026-05-12 00:45:47] ERROR: Reserva.__init__() missing 2 required positional arguments: 'hora_inicio' and 'hora_final'
+[2026-05-12 00:45:47] ERROR: cannot access local variable 'equipo1' where it is not associated with a value
+[2026-05-12 00:45:47] ERROR: cannot access local variable 'reserva_eq' where it is not associated with a value
+[2026-05-12 00:45:47] ERROR: Can't instantiate abstract class Asesoria without an implementation for abstract method 'calcular_costo'
+[2026-05-12 00:46:42] ERROR: Sala.calcular_costo() got an unexpected keyword argument 'aplicar_descuento'
+[2026-05-12 00:46:42] ERROR: Sala.calcular_costo() got an unexpected keyword argument 'aplicar_descuento'
+[2026-05-12 00:46:42] ERROR: La cantidad disponible debe ser un entero no negativo.
+[2026-05-12 00:46:42] ERROR: Reserva.__init__() missing 2 required positional arguments: 'hora_inicio' and 'hora_final'
+[2026-05-12 00:46:42] ERROR: cannot access local variable 'equipo1' where it is not associated with a value
+[2026-05-12 00:46:42] ERROR: cannot access local variable 'reserva_eq' where it is not associated with a value
+[2026-05-12 00:46:42] ERROR: Can't instantiate abstract class Asesoria without an implementation for abstract method 'calcular_costo'
